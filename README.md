@@ -42,6 +42,8 @@ Example:
         Logs → ftp_bruteforce.log
 
         Reports → reports/
+        
+you have to make changes in script according to your IP
 
 📑 Example Output
 
